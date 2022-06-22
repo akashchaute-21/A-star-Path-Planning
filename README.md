@@ -3,6 +3,7 @@
 **Description:**
 
 Implementation of A star Algorithm on a map using OpenCV Python:
+
 Pixels were used as nodes in the algorithm. We have to give the initial and the goal position coordinates to get the shortest path according to A star Algorithm.
 
 **Results:**
